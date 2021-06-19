@@ -35,3 +35,5 @@ Escuela de Programación y Pensamiento Recurs1v0
 
 > APPS
 1. - [ ] #401 - APPS - FIREBASE SDK
+ 
+Modificado Jun 19, 2021
